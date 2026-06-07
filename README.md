@@ -110,8 +110,7 @@ I'm an **AI/ML Engineer** passionate about building reliable, production-scale A
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| **Bachelor of Engineering** | Anna University | 2020–2024 | **8.0/10** CGPA |
-| *Computer Science & Engineering* | | | |
+| **Bachelor of Engineering** (Computer Science & Engineering) | Anna University | 2020–2024 | **8.0/10** CGPA |
 
 </div>
 
@@ -149,7 +148,7 @@ I'm an **AI/ML Engineer** passionate about building reliable, production-scale A
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:athulsjyothy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/athul-s-jyothi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/athul-s-jyothi)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917511102368)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ft.athuuuul?igsh=MW10MXhkd21mc3Jkcg==)
 
 **Location:** 📍 Bengaluru, India
 
@@ -157,7 +156,7 @@ I'm an **AI/ML Engineer** passionate about building reliable, production-scale A
 
 ---
 
-<a href="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer Wave"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer Wave" width="100%"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=athul-s-jyothi&style=flat-square&color=70A5FD" alt="Profile Views"/>

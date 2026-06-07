@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Athul+S+Jyothi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML+Engineer+%7C+LLM+Evaluation+%26+Quality+Engineering&descAlignY=62&descSize=16" alt="Hero Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Athul+S+Jyothi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML+Engineer+%7C+LLM+Evaluation+%26+Quality+Engineering&descAlignY=62&descSize=13" alt="Hero Banner" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Reliable+AI+Systems;LLM+Evaluation+%26+Quality+Engineering;Prompt+Engineering+%26+Foundation+Models;Data-Driven+Responsible+AI" alt="Typing Animation"/>

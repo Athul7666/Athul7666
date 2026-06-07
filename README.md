@@ -6,40 +6,24 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
-```python
-class AthulSJyothi:
-    def __init__(self):
-        self.name = "Athul S Jyothi"
-        self.location = "Bengaluru, India"
-        self.degree = "B.E. Computer Science & Engineering"
-        self.cgpa = "8.0 / 10.0"
-        
-        self.skills = {
-            "ml_ai": ["LLM Evaluation", "Prompt Engineering", "Foundation Models", 
-                      "Hallucination Detection", "Agentic Workflows"],
-            "responsible_ai": ["Bias Detection", "Policy Compliance", "AI Safety", 
-                               "Governance Frameworks"],
-            "languages": ["Python", "SQL", "HTML", "CSS"],
-            "tools": ["AWS Bedrock", "Amazon SageMaker", "Excel", "Power BI"]
-        }
-        
-        self.currently_learning = [
-            "Advanced RAG & Vector Databases",
-            "Multimodal AI Systems",
-            "AI Safety & Alignment"
-        ]
-        
-    def fun_fact(self):
-        return "I debug AI models the same way I debug code—systematic, data-driven, and relentless!"
-    
-    def motto(self):
-        return "Quality in, Reliable AI out. 🚀"
+I'm an **AI/ML Engineer** passionate about building reliable, production-scale AI systems. With expertise in **LLM Evaluation** and **AI Quality Engineering** at AWS Bedrock, I specialize in diagnosing model failures, detecting hallucinations, and ensuring responsible AI practices.
 
-# Let's build something amazing together!
-engineer = AthulSJyothi()
-```
+**📍 Location:** Bengaluru, India  
+**🎓 Education:** B.E. Computer Science & Engineering (Anna University) - CGPA: 8.0/10  
+**💼 Current Role:** Machine Learning Data Associate I at AWS Bedrock
+
+### ✨ What I Do
+- Evaluate foundation models across text, image, and code generation domains
+- Conduct multi-turn dialogue and agentic workflow assessments
+- Identify hallucination patterns and systemic failure analysis
+- Audit outputs for bias, harmful content, and policy compliance
+- Design scalable evaluation frameworks and benchmarking standards
+- Mentor teams on SOPs and quality calibration standards
+
+**🎯 Fun Fact:** I debug AI models the same way I debug code—systematic, data-driven, and relentless!  
+**💬 Motto:** "Quality in, Reliable AI out. 🚀"
 
 ---
 
@@ -65,31 +49,6 @@ engineer = AthulSJyothi()
 ![Excel](https://img.shields.io/badge/Excel+Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power+BI](https://img.shields.io/badge/Power+BI-F2CC8F?style=flat-square&logo=power-bi&logoColor=white)
 ![Data+Analysis](https://img.shields.io/badge/EDA+%26+Analytics-4B8BBE?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/athul-s-jyothi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athul-s-jyothi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/athul-s-jyothi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-s-jyothi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=athul-s-jyothi&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athul-s-jyothi&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=athul-s-jyothi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophy Wall" width="100%"/>
-</div>
 
 ---
 
